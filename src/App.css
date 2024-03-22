@@ -62,7 +62,7 @@ p {
 }
 
 .btn-primary {
-  color: var(-white);
+  color: var(--white);
   background-color: var(--primary);
   border: 1px solid var(--primary);
 }
@@ -261,6 +261,14 @@ h3 {
   line-height: 36px;
 }
 
+.hero-section-description {
+  color: var(--black);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-top: 5px;
+}
+
 .hero-section-img {
   display: flex;
 }
@@ -294,7 +302,8 @@ h3 {
   justify-content: center;
   align-items: flex-start;
   gap: 42.6px;
-  grid-template-columns: repeat(4, 1fr);
+  /* Change the first value in repeat to change the number of columns */
+  grid-template-columns: repeat(2, 1fr);
 }
 .skills-section-card {
   display: flex;
@@ -391,7 +400,6 @@ h3 {
 
 .portfolio-section-container {
   display: flex;
-  align-items: center;
   justify-content: center;
   gap: 42.6px;
   width: 100%;
@@ -449,7 +457,7 @@ h3 {
 /* Contact Me */
 .contact-section {
   display: flex;
-  padding: 150px 85px;
+  padding: 20px 50px;
   flex-direction: column;
   justify-content: center;
   align-items: center;

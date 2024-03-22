@@ -9,9 +9,9 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero-section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            B.S. Computer Information Systems
             <br />
-            Lorem ipsum dolor sit amet consectetur adipisicing.
+            University of South Carolina
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>
