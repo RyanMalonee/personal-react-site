@@ -5,6 +5,7 @@ export default function ContactMe() {
     event.preventDefault();
     setResult("Sending....");
     const formData = new FormData(event.target);
+    console.log("formData", ...formData);
 
     formData.append("access_key", "2d503882-a64b-49fe-b028-a8bcd7b6fc3f");
 
@@ -81,8 +82,10 @@ export default function ContactMe() {
           <textarea
             className="contact-input text-md"
             id="message"
+            name="message"
             rows="8"
             placeholder="Type your message..."
+            required
           />
         </label>
         <div>
