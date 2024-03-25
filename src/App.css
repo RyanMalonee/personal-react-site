@@ -452,6 +452,15 @@ h3 {
 .portfolio-section-card:hover path {
   stroke: #006b6a;
 }
+
+.portfolio-section-description {
+  height: 175px;
+  padding: 10px 0;
+}
+
+.portfolio-link {
+  text-decoration: none;
+}
 /* My Portfolio Ends */
 
 /* Contact Me */

@@ -31,7 +31,7 @@
     {
       "id": "3",
       "src": "./img/design_patterns.png",
-      "title": "Design Patterns",
+      "title": "Design Patterns - Java Development",
       "description": "While learning the fundamentals of software engineerng, I spent a lot of time learning design patterns. These have been great when it comes to creating reusable code that works well, and was perfect for use in projects such as the Nexus Management System.",
       "link": "https://github.com/RyanMalonee/design_patterns"
     }

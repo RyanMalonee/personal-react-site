@@ -31,10 +31,12 @@ export default function MyPortfolio() {
             <div className="portfolio-section-card-content">
               <div>
                 <h3 className="portfolio-section-title">{item.title}</h3>
-                <p className="text-md">{item.description}</p>
+                <p className="text-md portfolio-section-description">
+                  {item.description}
+                </p>
               </div>
               <p className="text-sm portfolio-link">
-                <a href={item.link} target="_blank">
+                <a className="portfolio-link" href={item.link} target="_blank">
                   View in GitHub
                 </a>
                 <svg
