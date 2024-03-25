@@ -23,17 +23,17 @@
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image.png",
-      "title": "App Dashboard",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, doloremque. Laborum eiusmod sint sunt tempor nisi Lorem eiusmod occaecat ipsum sint.",
-      "link": "View in GitHub"
+      "src": "./img/delawhere.png",
+      "title": "Dela-Where? Exploration Website",
+      "description": " Independently developed 'Dela-Where,' a comprehensive website dedicated to spotlighting Delaware's historical significance and offering an extensive guide to local attractions and activities.",
+      "link": "https://github.com/RyanMalonee/RyanMalonee.github.io/tree/main/project/final"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rent",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, doloremque. Laborum eiusmod sint sunt tempor nisi Lorem eiusmod occaecat ipsum sint.",
-      "link": "View in GitHub"
+      "src": "./img/design_patterns.png",
+      "title": "Design Patterns",
+      "description": "While learning the fundamentals of software engineerng, I spent a lot of time learning design patterns. These have been great when it comes to creating reusable code that works well, and was perfect for use in projects such as the Nexus Management System.",
+      "link": "https://github.com/RyanMalonee/design_patterns"
     }
   ]
 }
