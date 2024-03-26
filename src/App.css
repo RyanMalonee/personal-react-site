@@ -422,7 +422,6 @@ h3 {
   flex: 1 0 0;
   background: var(--white);
   box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
-  cursor: pointer;
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
 }
@@ -547,6 +546,11 @@ select::-ms-expand {
   gap: 42.667px;
   text-decoration: none;
 }
+
+.footer-items {
+  cursor: pointer;
+}
+
 .footer-items ul > li > a {
   text-decoration: none;
 }
@@ -698,6 +702,10 @@ select::-ms-expand {
   .divider {
     margin: 20px;
   }
+
+  .hero-section-img {
+    max-width: 75%;
+  }
 }
 
 /* Hamburger menu  */
@@ -780,6 +788,15 @@ select::-ms-expand {
 
   .navbar {
     padding: 15px 25px;
+  }
+
+  .portfolio-section-description {
+    height: 245px;
+    padding: 10px 0;
+  }
+
+  .hero-section .section-title {
+    display: block;
   }
 }
 
