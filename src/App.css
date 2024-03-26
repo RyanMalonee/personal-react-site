@@ -792,11 +792,23 @@ select::-ms-expand {
 
   .portfolio-section-description {
     height: 245px;
-    padding: 10px 0;
   }
 
   .hero-section .section-title {
     display: block;
+  }
+}
+
+/* Larger Resolutions */
+@media only screen and (max-width: 450px) {
+  .portfolio-section-description {
+    height: 310px;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .portfolio-section-description {
+    height: 400px;
   }
 }
 
