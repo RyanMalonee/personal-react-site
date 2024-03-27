@@ -814,10 +814,10 @@ select::-ms-expand {
 
 /* Responsive Screens Ends*/
 
-/* Typewriter effect */
+/* Typewriter effect found here: https://css-tricks.com/snippets/css/typewriter-effect/ */
 .typewriter {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: 0.12em solid black; /* The typwriter cursor */
+  border-right: 0.12em solid black; /* The typewriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: 0.1em; /* Adjust as needed */
