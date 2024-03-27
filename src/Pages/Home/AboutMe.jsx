@@ -21,9 +21,10 @@ export default function AboutMe() {
             academic career, I have demonstrated a strong work ethic and a
             commitment to excellence, earning the AP Scholar with Distinction
             Award, being selected as a 2022 Delaware Secretary of Education
-            Scholar, being placed on the Dean’s List for the Fall 2022 semester,
-            as well as being placed on the President's List for the Spring 2023
-            and Fall 2023 semesters.
+            Scholar, graduating highschool as the class of 2022 Valedictorian,
+            being placed on the Dean’s List for the Fall 2022 semester, as well
+            as being placed on the President's List for the Spring 2023 and Fall
+            2023 semesters.
           </p>
           <p className="hero-section-description">
             While I am currently focused on my studies, I am also actively
