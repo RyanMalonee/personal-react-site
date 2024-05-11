@@ -4,13 +4,13 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "I've built many different websites using HTML, CSS, and JavaScript. I also have experiencing building a GUI for a java project"
+      "description": "Through my experience in numerous different classes I've had the opportunity to build different websites, GUIs, and other front-end applications. Each project provided a unique challenge and allowed me to explore various technologies and design principles. From creating responsive layouts with HTML, CSS, and React to enhancing user interactions with JavaScript, I've honed my skills in crafting intuitive and visually appealing interfaces."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Over the years, I've worked with many different languages and technologies. I've built many different programs using Java and C++. Most notably I, on a team of 4, built a Java program that was designed to act as a SCRUM board. This project involved numerous hours of backend development and was a huge success. "
+      "description": "Throughout my career, I've garnered extensive experience working with a diverse array of programming languages and technologies, leveraging them to architect robust solutions. Notably, I have demonstrated proficiency in Java and C++, crafting intricate programs and systems to meet varied demands. "
     }
   ],
   "portfolio": [
