@@ -314,7 +314,7 @@ h3 {
   flex: 1 0 0;
   border-radius: 10.6px;
   background: var(--bg-shade);
-  min-height: 350px;
+  min-height: 400px;
 }
 
 .skills-section-card:hover {
