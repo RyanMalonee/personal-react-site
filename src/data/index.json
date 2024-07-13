@@ -2,15 +2,15 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
+      "src": "./img/frontend.png",
       "title": "Front-End",
       "description": "Through my experience in numerous different classes I've had the opportunity to build different websites, GUIs, and other front-end applications. Each project provided a unique challenge and allowed me to explore various technologies and design principles. From creating responsive layouts with HTML, CSS, and React to enhancing user interactions with JavaScript, I've honed my skills in crafting intuitive and visually appealing interfaces."
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
+      "src": "./img/backend.png",
       "title": "Back-End",
-      "description": "Throughout my career, I've garnered extensive experience working with a diverse array of programming languages and technologies, leveraging them to architect robust solutions. Notably, I have demonstrated proficiency in Java and C++, crafting intricate programs and systems to meet varied demands. "
+      "description": "Throughout my career, I've gained extensive experience with diverse programming languages and technologies, architecting robust solutions. I have demonstrated proficiency in Java and C++, crafting intricate systems to meet varied demands. Additionally, I have utilized JavaScript for server-side code, enhancing website functionality. This blend of skills enables me to develop scalable backend systems, ensuring seamless integration with front-end applications."
     }
   ],
   "portfolio": [

@@ -314,7 +314,8 @@ h3 {
   flex: 1 0 0;
   border-radius: 10.6px;
   background: var(--bg-shade);
-  min-height: 400px;
+  min-height: 375px;
+  border-bottom: 4px solid transparent;
 }
 
 .skills-section-card:hover {
@@ -363,15 +364,16 @@ h3 {
 /* About Us */
 .about-section {
   display: grid;
-  padding: 133.3px 85.3px;
+  padding: 80px 85.3px;
   align-items: center;
   gap: 114.6px;
   grid-template-columns: repeat(2, 1fr);
 }
 
 .about-section-img img {
-  max-height: 60%;
-  max-width: 60%;
+  margin-left: 10%;
+  max-height: 80%;
+  max-width: 80%;
 }
 /* About Us Ends */
 
@@ -465,7 +467,7 @@ h3 {
 /* Contact Me */
 .contact-section {
   display: flex;
-  padding: 20px 50px;
+  padding: 10px 50px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -506,6 +508,10 @@ h3 {
   margin: 5px;
   border: 1.333px solid var(--primary);
   background: var(--white);
+}
+
+#message {
+  height: 100px;
 }
 
 select {
