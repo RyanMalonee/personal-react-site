@@ -4,36 +4,36 @@
       "id": "1",
       "src": "./img/frontend.png",
       "title": "Front-End",
-      "description": "Through my experience in numerous different classes I've had the opportunity to build different websites, GUIs, and other front-end applications. Each project provided a unique challenge and allowed me to explore various technologies and design principles. From creating responsive layouts with HTML, CSS, and React to enhancing user interactions with JavaScript, I've honed my skills in crafting intuitive and visually appealing interfaces."
+      "description": "Through my coursework and personal projects, I have built a variety of websites, GUIs, and front-end applications. Each project has presented unique challenges that allowed me to refine my skills in modern web development. I have experience working with HTML, CSS, JavaScript, and frameworks like React and React Native to create responsive and intuitive user interfaces."
     },
     {
       "id": "2",
       "src": "./img/backend.png",
       "title": "Back-End",
-      "description": "Throughout my career, I've gained extensive experience with diverse programming languages and technologies, architecting robust solutions. I have demonstrated proficiency in Java and C++, crafting intricate systems to meet varied demands. Additionally, I have utilized JavaScript for server-side code, enhancing website functionality. This blend of skills enables me to develop scalable backend systems, ensuring seamless integration with front-end applications."
+      "description": "I have worked extensively with Java, C++, and JavaScript to develop efficient and scalable back-end systems. My experience includes building APIs, managing authentication, and integrating databases into web and mobile applications. I have also used technologies like Node.js and Firebase to support full-stack development, ensuring seamless communication between the front-end and back-end."
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/nexus.png",
-      "title": "Nexus Project Management System",
-      "description": "Nexus is a comprehensive tool designed specifically for software engineers to facilitate project and task management while integrating and enforcing Scrum principles within their workflow.",
-      "link": "https://github.com/RyanMalonee/Nexus-Project"
+      "src": "./img/cockysway.png",
+      "title": "Cockys Way - USC Campus Navigation",
+      "description": "Cockys Way is a React Native mobile application designed to help students navigate the University of South Carolina campus efficiently. The app features an interactive map, a staff directory, and a schedule tracker, using Firebase authentication to provide a personalized experience. The repository is not public yet.",
+      "link": "#"
     },
     {
       "id": "2",
-      "src": "./img/delawhere.png",
-      "title": "Dela-Where? Exploration Website",
-      "description": " Independently developed 'Dela-Where,' a comprehensive website dedicated to spotlighting Delaware's historical significance and offering an extensive guide to local attractions and activities.",
-      "link": "https://github.com/RyanMalonee/RyanMalonee.github.io/tree/main/project/final"
+      "src": "./img/nexus.png",
+      "title": "Nexus Project Management System",
+      "description": "Nexus is a project management tool designed for software engineering teams. It facilitates task management while integrating Scrum principles to improve workflow efficiency. The system includes features for sprint planning, backlog organization, and team collaboration.",
+      "link": "https://github.com/RyanMalonee/Nexus-Project"
     },
     {
       "id": "3",
-      "src": "./img/design_patterns.png",
-      "title": "Design Patterns - Java Development",
-      "description": "While learning the fundamentals of software engineering, I spent a lot of time learning design patterns. These have been great when it comes to creating reusable code that works well, and was perfect for use in projects such as the Nexus Management System.",
-      "link": "https://github.com/RyanMalonee/design_patterns"
+      "src": "./img/delawhere.png",
+      "title": "Dela-Where? Exploration Website",
+      "description": "'Dela-Where' is an interactive website that highlights Delaware's historical significance while providing a comprehensive guide to local attractions and activities. The project was independently developed, focusing on both design and functionality to create an engaging user experience.",
+      "link": "https://github.com/RyanMalonee/RyanMalonee.github.io/tree/main/project/final"
     }
   ]
 }

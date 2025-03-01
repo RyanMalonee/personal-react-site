@@ -271,10 +271,11 @@ h3 {
 
 .hero-section-img {
   display: flex;
+  justify-content: center;
 }
 
 .hero-section-img img {
-  width: 100%;
+  width: 75%;
   height: 100%;
 }
 
@@ -414,6 +415,9 @@ h3 {
 
 .portfolio-section-img img {
   width: 100%;
+  height: auto;
+  object-fit: cover;
+  aspect-ratio: 16/9;
 }
 
 .portfolio-section-card {
@@ -815,6 +819,12 @@ select::-ms-expand {
 @media only screen and (max-width: 390px) {
   .portfolio-section-description {
     height: 400px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .hero-section-content-box {
+    margin-left: 100px;
   }
 }
 
